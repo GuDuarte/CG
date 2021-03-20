@@ -14,7 +14,7 @@ Conteúdo:
 
 &nbsp;&nbsp;Roads:
 \
-&nbsp;&nbsp;&nbsp;&nbsp;Define o plano de fundo, bordas e retãngulos centrais que representam divisão de faixa.
+&nbsp;&nbsp;&nbsp;&nbsp;Define o plano de fundo, bordas e retângulos centrais que representam divisão de faixa.
 
   
 &nbsp;&nbsp;Car:
