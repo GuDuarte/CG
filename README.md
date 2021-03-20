@@ -7,7 +7,7 @@ Autores:\
 Aplicação: 
 \
 &nbsp;&nbsp;O objetivo era criar um jogo Endless Runner, onde o jogador deve desviar de obstáculos infinitamente.\
-&nbsp;&nbsp;Algumas funções, como animação de "explosão" e verificação de colisão não foram implantados.
+&nbsp;&nbsp;Algumas funções, como animação de "explosão" e verificação de colisão não foram implantadas.
   
 
 Conteúdo:
